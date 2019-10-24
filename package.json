@@ -1,0 +1,25 @@
+{
+  "name": "feathersjs-travmed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mathispnz/feathersjstuto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mathispnz/feathersjstuto/issues"
+  },
+  "homepage": "https://github.com/Mathispnz/feathersjstuto#readme",
+  "dependencies": {
+    "@feathersjs/express": "^4.3.7",
+    "@feathersjs/feathers": "^4.3.7",
+    "@feathersjs/socketio": "^4.3.7",
+    "moment": "^2.24.0"
+  }
+}
